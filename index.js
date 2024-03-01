@@ -1,1 +1,2 @@
-console.log("Hello, World!");
+import antd from 'antd'
+console.log(antd)
