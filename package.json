@@ -4,7 +4,7 @@
   "description": "none",
   "main": "index.js",
   "scripts": {
-    "test": "exit 0"
+    "test": ""
   },
   "author": "",
   "license": "ISC",
